@@ -1,2 +1,0 @@
-library(dslabs)
-library(tidyverse)
